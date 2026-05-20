@@ -2,5 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: multi-database-schema-validator
+  description: Python tool for validating schema consistency between source and target databases during migrations
 spec:
   owner: Security
