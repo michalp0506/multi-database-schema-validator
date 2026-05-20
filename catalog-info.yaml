@@ -1,0 +1,6 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: multi-database-schema-validator
+spec:
+  owner: Security
