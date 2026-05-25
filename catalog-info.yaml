@@ -5,3 +5,5 @@ metadata:
   description: Python tool for validating schema consistency between source and target databases during migrations
 spec:
   owner: Security
+  type: library
+  lifecycle: production
